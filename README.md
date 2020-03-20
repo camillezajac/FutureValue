@@ -5,4 +5,4 @@ Navigate to the file location in Terminal <br>
 Compile: g++ future.cpp <br>
 Run: ./a.out <br>
 
-<img src="example.png">
+<img src="example.png" style="height:50%; width:50%">
