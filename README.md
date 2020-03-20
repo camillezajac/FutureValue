@@ -3,6 +3,6 @@ Calculates the future value of your money after applied compound interest.
 
 Navigate to the file location in Terminal <br>
 Compile: g++ future.cpp <br>
-Run: ./a.out <br><br>
+Run: ./a.out <br>
 
-<img src="example.png" style="height:25% !important; width:25% !important;">
+<img src="example.png">
